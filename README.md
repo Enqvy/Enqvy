@@ -1,11 +1,18 @@
-### where to find me:
+<div align="left">
+  
+  **where to find me:**
+  
+  - discord: [@enqvy.xyz](https://discord.com/users/1060050993234063460)
+  
+  - [Personal Site](https://enqvy.vercel.app)
+  
+  <img src="https://enqvy.vercel.app/secret.gif" width="100" alt="happy dance 💖">
 
-- discord: [@enqvy.xyz](https://discord.com/users/1060050993234063460)
+</div>
 
+---
 
-- [Personal Site](https://enqvy.vercel.app)
-
-
+### Tech Stack
 
 ![arch](https://img.shields.io/badge/Arch%20Linux-004D7A?style=flat-square&logo=arch-linux&logoColor=white) 
 ![go](https://img.shields.io/badge/Go-005C8C?style=flat-square&logo=go&logoColor=white) 
