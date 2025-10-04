@@ -3,7 +3,7 @@
 - discord: @0td6
 
 
-- Cant afford a domain :) : https://ahyayyesam.pythonanywhere.com
+- [Personal Site](https://enqvy.vercel.app)
 
 
 
