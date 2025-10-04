@@ -1,6 +1,6 @@
 ### where to find me:
 
-- [discord: @enqvy.xyz](https://discord.com/users/1060050993234063460)
+- discord: [@enqvy.xyz](https://discord.com/users/1060050993234063460)
 
 
 - [Personal Site](https://enqvy.vercel.app)
