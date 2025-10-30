@@ -3,10 +3,6 @@
   **where to find me:**
   
   - discord: [@enqvy.xyz](https://discord.com/users/1060050993234063460)
-  
-  - [Personal Site](https://enqvy.vercel.app)
-  
-  <img src="https://enqvy.vercel.app/secret.gif" width="100" alt="happy dance 💖">
 
 </div>
 
