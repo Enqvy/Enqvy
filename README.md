@@ -8,6 +8,11 @@
 
 ---
 
+## Missions:
+
+- building things nobody asked for but i find interesting
+- making the web a even worst place with bad code
+
 ### Tech Stack
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-004D7A?style=flat-square&logo=arch-linux&logoColor=white) 
